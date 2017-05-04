@@ -890,7 +890,7 @@ bg:
       returned: върнато
     order_summary: "Преглед на поръчка"
     order_sure_want_to: Потвърди
-    order_total: "Цялостна стойност"
+    order_total: "Обща стойност"
     order_updated: "Поръчката бе обновена"
     orders: Поръчки
     other_items_in_other: ~
@@ -989,7 +989,7 @@ bg:
         description: Трябва да бъде първата поръчка на потребителя
         name: Първа поръчка
       item_total:
-        description: Цялостната стойност на поръчката
+        description: Общата стойност на поръчката
         name: Продукти тотал
       landing_page:
         description: "Потребителят трябва да е посетил определена страница"
