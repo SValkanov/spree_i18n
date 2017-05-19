@@ -1173,7 +1173,7 @@ bg:
     slug: ~
     source: ~
     special_instructions: "Специални указания"
-    split: ~
+    split: Раздели
     spree_gateway_error_flash_for_checkout: ~
     ssl:
       change_protocol: ~
