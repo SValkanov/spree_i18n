@@ -65,7 +65,7 @@ bg:
       spree/order/ship_address:
         address1: "Адрес за доставка - улица"
         city: "Адрес за доставка - град"
-        firstname: "Адрес за доставка -първо име"
+        firstname: "Адрес за доставка - първо име"
         lastname: "Адрес за доставка - фамилия"
         phone: "Адрес за доставка - тел. номер"
         state: "Адрес за доставка - община"
@@ -561,7 +561,7 @@ bg:
         token: ~
       jirafe_settings_updated: ~
     date: "Дата"
-    date_completed: ~
+    date_completed: 'Дата на завършване'
     date_picker:
       first_day: 0
       format: "%Y/%m/%d"
