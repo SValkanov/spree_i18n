@@ -928,7 +928,7 @@ bg:
       void: провалено
     payment_updated: "Плащането бе обновено"
     payments: Плащания
-    pending: ~
+    pending: Изчакваща
     percent: Процент
     percent_per_item: ~
     permalink: Permalink
@@ -943,7 +943,7 @@ bg:
     preferred_reimbursement_type: ~
     presentation: Представяне
     previous: Предходен
-    previous_state_missing: ~
+    previous_state_missing: 'Липсва предходен статус'
     price: Цена
     price_range: "Търсене по цена"
     price_sack: ~
