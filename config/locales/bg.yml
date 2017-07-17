@@ -43,7 +43,7 @@ bg:
         checkout_complete: "Завършена поръчка"
         completed_at: "Завършена на"
         considered_risky: Риск
-        coupon_code: "Код на ваучер"
+        coupon_code: "Въведи промо код"
         created_at: "Дата на поръчка"
         email: "Клиентски имейл"
         ip_address: "IP Адрес"
@@ -351,7 +351,7 @@ bg:
     add: Добави
     add_action_of_type: "Добави действие от тип"
     add_country: "Добави страна"
-    add_coupon_code: "Добави код на ваучер"
+    add_coupon_code: "Добави промо код"
     add_new_header: "Добави нов хедър"
     add_new_style: "Добави нов стил"
     add_one: "Добави едно"
@@ -516,14 +516,14 @@ bg:
       ITA: Италия
       US: "Съединени Щати"
     coupon: Ваучер
-    coupon_code: "Код на ваучер"
-    coupon_code_already_applied: "Този код вече е използван за тази доставка."
-    coupon_code_applied: "Този код бе успешно приложен към вашата поръчка"
-    coupon_code_better_exists: "Предишният ваучер предоставя по-добри условия"
-    coupon_code_expired: "Този ваучер е изтекъл"
-    coupon_code_max_usage: "Употребата на ваучери преминава лимита."
-    coupon_code_not_eligible: "Този код не е валиден за тази поръчка."
-    coupon_code_not_found: "Въведеният код не е валиден. Опитайте отново."
+    coupon_code: "Въведи промо код"
+    coupon_code_already_applied: "Този промо код вече е използван за тази доставка."
+    coupon_code_applied: "Този промо код бе успешно приложен към вашата поръчка"
+    coupon_code_better_exists: "Предишният промо код предоставя по-добри условия"
+    coupon_code_expired: "Този промо код е изтекъл"
+    coupon_code_max_usage: "Употребата на промо кодове преминава лимита."
+    coupon_code_not_eligible: "Този промо код не е валиден за тази поръчка."
+    coupon_code_not_found: "Въведеният промо код не е валиден. Опитайте отново."
     coupon_code_unknown_error: "Непозната грешка"
     create: Създай
     create_a_new_account: "Създай нов акаунт"
@@ -625,7 +625,7 @@ bg:
         cart:
           add: "Добави към количка"
         checkout:
-          coupon_code_added: "Купон за остъпка прибавен"
+          coupon_code_added: "Промо код за остъпка прибавен"
         content:
           visited: "Посети статична страница с данни"
         order:
