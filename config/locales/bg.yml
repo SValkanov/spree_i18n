@@ -222,7 +222,7 @@ bg:
       spree/payment:
         one: Плащане
         other: Плащания
-      spree/payment_method: ~
+      spree/payment_method: Методи на плащане
       spree/product:
         one: Продукт
         other: Продукти
@@ -234,13 +234,13 @@ bg:
       spree/prototype:
         one: Прототип
         other: Прототипи
-      spree/refund_reason: ~
+      spree/refund_reason: Причини за връщане
       spree/reimbursement: ~
       spree/reimbursement_type: ~
       spree/return_authorization:
         one: "Върни ауторизация"
         other: "Върни ауторизации"
-      spree/return_authorization_reason: ~
+      spree/return_authorization_reason: Причини за връщане
       spree/role:
         one: Роли
         other: Роли
@@ -250,14 +250,14 @@ bg:
       spree/shipping_category:
         one: "Доставна категория"
         other: "Доставни категории"
-      spree/shipping_method: ~
+      spree/shipping_method: Методи на доставка
       spree/state:
         one: Държава
         other: Държави
       spree/state_change: ~
-      spree/stock_location: ~
+      spree/stock_location: Местонахождение на стоката
       spree/stock_movement: ~
-      spree/stock_transfer: ~
+      spree/stock_transfer: Трансфер на стока
       spree/tax_category:
         one: "Данъчна категория"
         other: "Данъчна категория"
@@ -790,7 +790,7 @@ bg:
     new_property: "Ново свойство"
     new_prototype: "Нов прототип"
     new_refund: ~
-    new_refund_reason: ~
+    new_refund_reason: Нова причина за връщане
     new_return_authorization: "Нов метод за оторизиране на връщане"
     new_rma_reason: "Ново основание за връщане"
     new_role: "Нова роля"
