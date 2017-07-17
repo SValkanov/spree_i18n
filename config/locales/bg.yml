@@ -96,6 +96,7 @@ bg:
         usage_limit: Лимит
       spree/promotion_category:
         name: Име
+        code: Код
       spree/property:
         name: Име
         presentation: Презентация
@@ -213,7 +214,7 @@ bg:
         one: "Складна единица"
         other: "Складни единици"
       spree/line_item: ~
-      spree/option_type: ~
+      spree/option_type: 'Тип Варианти'
       spree/option_value: ~
       spree/order:
         one: Поръчка
@@ -226,7 +227,7 @@ bg:
         one: Продукт
         other: Продукти
       spree/promotion: ~
-      spree/promotion_category: ~
+      spree/promotion_category: Категория промоции
       spree/property:
         one: Харатеристика
         other: Характеристики
@@ -264,7 +265,7 @@ bg:
         one: "Данъчен процент"
         other: "данъчни проценти"
       spree/taxon: ~
-      spree/taxonomy: ~
+      spree/taxonomy: Таксономии
       spree/tracker: ~
       spree/user:
         one: Потребител
@@ -386,7 +387,7 @@ bg:
         properties: Свойства
         prototypes: Прототипи
         reports: Доклади
-        taxonomies: Категории
+        taxonomies: Таксономии
         taxons: Категория
         users: Потребители
       user:
@@ -541,7 +542,7 @@ bg:
     currency_symbol_position: ~
     currency_thousands_separator: ~
     current: ~
-    current_promotion_usage: ~
+    current_promotion_usage: Текущи използвани промоции
     customer: Клиент
     customer_details: ~
     customer_details_updated: ~
@@ -581,8 +582,8 @@ bg:
     details: ~
     discount_amount: ~
     dismiss_banner: ~
-    display: ~
-    display_currency: ~
+    display: Покажи
+    display_currency: Покажи текущи
     doesnt_track_inventory: ~
     edit: Промени
     editing_resource: Редактиране
@@ -774,7 +775,7 @@ bg:
     name_or_sku: "Име или Идентификационен номер на продукт"
     new: Име
     new_adjustment: "Ново нагалсяне"
-    new_country: ~
+    new_country: 'Нова държава'
     new_customer: "Нов клиент"
     new_customer_return: ~
     new_image: "Нов образ"
@@ -839,7 +840,7 @@ bg:
     on_hand: Наличност
     open: ~
     open_all_adjustments: ~
-    option_type: ~
+    option_type: Тип Варианти
     option_type_placeholder: ~
     option_types: ~
     option_value: ~
@@ -1012,7 +1013,7 @@ bg:
       user_logged_in:
         description: "Достъпно само за потребители, които са влезли в сайта"
         name: "Потребителят е влязал в сайта"
-    promotion_uses: ~
+    promotion_uses: Използвани промоции
     promotionable: ~
     promotions: Промоции
     propagate_all_variants: ~
@@ -1165,8 +1166,8 @@ bg:
     show: Покажи
     show_active: Активни
     show_deleted: Изтрити
-    show_only_complete_orders: ~
-    show_only_considered_risky: ~
+    show_only_complete_orders: Включи само завършени поръчки
+    show_only_considered_risky: Включи само рискови поръчки
     show_rate_in_label: ~
     sku: ~
     skus: ~
@@ -1308,7 +1309,7 @@ bg:
     use_billing_address: "Използвай адрес за плащане"
     use_new_cc: "Използвай нова карта"
     use_s3: "Използвай Amazon S3 за изображения"
-    user: User
+    user: Потребител
     user_rule:
       choose_users: "Изберете потребители"
     users: Потребители
