@@ -931,7 +931,7 @@ bg:
     payments: Плащания
     pending: Изчакваща
     percent: Процент
-    percent_per_item: ~
+    percent_per_item: Процент на продукт
     permalink: Permalink
     phone: Телефон
     place_order: "Направи поръчка"
