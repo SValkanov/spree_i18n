@@ -1284,7 +1284,7 @@ bg:
     total_pre_tax_refund: "Обща стойност"
     total_price: "Крайна цена"
     total_sales: ~
-    track_inventory: ~
+    track_inventory: Следене за наличност
     tracking: Проследяване
     tracking_number: "Номер за проследяване на поръчката"
     tracking_url: "Адрес за проследяване"
