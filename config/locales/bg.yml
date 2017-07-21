@@ -1255,7 +1255,7 @@ bg:
       choose_taxons: Избери категория
       label: Трябва да
       match_all: Съвпадат всички
-      match_any: Само един
+      match_any: Съвпада само един
     taxonomies: Категории
     taxonomy: Категория
     taxonomy_edit: "Промени таксономия"
