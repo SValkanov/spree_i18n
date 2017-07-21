@@ -596,9 +596,9 @@ bg:
         item_total_less_than_or_equal: ~
         item_total_more_than: ~
         item_total_more_than_or_equal: ~
-        limit_once_per_user: ~
+        limit_once_per_user: Промоцията е валидна само веднъж
         missing_product: ~
-        missing_taxon: ~
+        missing_taxon: Продукта е от невалидна категория за промоцията
         no_applicable_products: ~
         no_matching_taxons: ~
         no_user_or_email_specified: ~
@@ -1253,9 +1253,9 @@ bg:
     taxon_placeholder: "Добави таксон"
     taxon_rule:
       choose_taxons: Избери категория
-      label: Трябва да
-      match_all: Съвпадат всички
-      match_any: Съвпада само един
+      label: Поръчката трябва да съдържа x количество от тази категория
+      match_all: Всички
+      match_any: Само 1
     taxonomies: Категории
     taxonomy: Категория
     taxonomy_edit: "Промени таксономия"
