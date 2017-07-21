@@ -567,7 +567,7 @@ bg:
       first_day: 0
       format: "%Y/%m/%d"
       js_format: yy/mm/dd
-    date_range: ~
+    date_range: Период от време
     default: ~
     default_refund_amount: ~
     default_tax: ~
@@ -1101,7 +1101,7 @@ bg:
     safe: Сигурна
     sales_total: "Общо продажби"
     sales_total_description: ""
-    sales_totals: ~
+    sales_totals: "Търговски инструменти"
     save_and_continue: "Запиши и продължи"
     save_my_address: "Запиши адреса"
     say_no: Не
