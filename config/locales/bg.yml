@@ -1252,10 +1252,10 @@ bg:
     taxon_edit: "Промени таксон"
     taxon_placeholder: "Добави таксон"
     taxon_rule:
-      choose_taxons: ~
-      label: ~
-      match_all: ~
-      match_any: ~
+      choose_taxons: Избери категория
+      label: Трябва да
+      match_all: Съвпадат всички
+      match_any: Само един
     taxonomies: Категории
     taxonomy: Категория
     taxonomy_edit: "Промени таксономия"
